@@ -1,5 +1,5 @@
-# bagles
-## a javascript version of bagles logic guessing game
+# bagels
+## a javascript version of bagels logic guessing game
 
 The logic of this game is very close to the python code that Al Sweigart has in his great book
 
