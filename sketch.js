@@ -82,7 +82,7 @@ function getClues(guess,secret){
     }
   }
   if(reply.length == 0){
-    return "bagles"
+    return "bagels"
   } else{
       //reply.sort(()=> Math.random() - 0.5)
       return reply.join(', ')
