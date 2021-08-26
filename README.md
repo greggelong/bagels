@@ -14,7 +14,7 @@ Even the logic of the REPL of python must be handled by the DOM in Javascript so
 
 play it live at:
 
-https://greggelong.github.io/bagles
+https://greggelong.github.io/bagels
 
 
 
