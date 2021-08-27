@@ -4,13 +4,18 @@
 	<meta charset="utf-8">
 	<title>bagels</title>
 	<style>
-    body, pre{
+    body{
       padding: 0%;
       margin: 0;
       color: #66FF00;
       background-color: black;
       font-size: 110%;
       text-align: center;
+      font-family: monospace; 
+    }
+
+    pre{
+      font-family: monospace; 
     }
   </style>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.js"></script>
@@ -18,24 +23,32 @@
 </head>
 <body>
   <pre>
-    I am thinking of a 3-digit number, with no repeating digits!
-
-      I will give you some clues:
-
-      When I say:                            That means:
-
-      *Pico*        One digit is correct but in the wrong position.
-
-      *Fermi*       One digit is correct and in the right position.
-
-      *Bagels*                                No digit is correct.
-
-      You have 10 guesses to get it. 
-
-
+    READY.                                                             
+    RUN BAGLES                                                         
+    *******************************************************************  
+    |I am thinking of a 3-digit number code, with no repeating digits!|\ 
+    |                                                                 |**
+    |For example:  '123', '531', or even with a leading zero '089'    |**
+    |                                                                 |**
+    |Can you guess the code?                                          |**
+    |                                                                 |**
+    |I will give you some clues:                                      |**
+    |                                                                 |**
+    |                                                                 |**
+    |                                                                 |**
+    |  *Pico*    ==> One digit is correct but in the wrong position.  |**
+    |                                                                 |**
+    |  *Fermi*   ==> One digit is correct and in the right position.  |**
+    |                                                                 |**
+    |  *Bagels*  ==> No digit is correct.                             |**
+    |                                                                 |**
+    |  You have 10 guesses to get it.                                 |**
+    |  Type your guess and Click RETURN                               |**
+    *******************************************************************\*
+    ******************************************************************** 
   </pre>
 	<input id="input" value="type your guess here" />
-	<button id="btn">Click here!</button>
+	<button id="btn">RETURN</button>
 	<p id="output">output</p>
   
 
