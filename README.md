@@ -16,7 +16,7 @@ https://inventwithpython.com/chapter11.html
 
 But as JavaScript and Python handle arrays and lists so differently, almost none of the code stays the same.
 
-Each of the JavaScrit functions have a similar 'function' to the Python code, but they are implemented in different ways.
+Each of the JavaScript functions have a similar 'function' to the Python code, but they are implemented in different ways.
 
 Even the logic of the REPL of Python must be handled by the DOM in JavaScript so the game loop is completely different
 
