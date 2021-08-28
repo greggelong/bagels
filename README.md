@@ -48,7 +48,7 @@ at janieck co
 
 note!! that on the online emulator 591 will always win the first game (a function of how random numbers are picked)
 
-but second games are more random (or see if you can find them).
+but second games are more random (or see if you can find a pattern).
 
 
 After you win or lose the game it ends.  Just type run to play again
